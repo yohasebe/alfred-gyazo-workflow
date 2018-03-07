@@ -45,7 +45,7 @@ You can view the thumbnails of your screenshots recently captured.  The default 
 
 Hit `enter` after selecting an image will open the Gyazo link. Hit `⌘+enter` will copy the direct image link to the clipboard.
 
-## Claer thumbnail cache
+## Clear thumbnail cache
 
 Usage: `clear gsr cache`
 
