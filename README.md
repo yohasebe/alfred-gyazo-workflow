@@ -1,6 +1,6 @@
 # Alfred Gyazo Workflow (AGW)
 
-[DOWNLOAD]()
+[DOWNLOAD](https://github.com/yohasebe/alfred-gyazo-workflow/raw/master/package/Gyazo%20Screenshot.alfredworkflow)
 
 [![https://gyazo.com/119872a1f1a4445e81ba3a5e25c88a00](https://i.gyazo.com/119872a1f1a4445e81ba3a5e25c88a00.gif)](https://gyazo.com/119872a1f1a4445e81ba3a5e25c88a00)
 
